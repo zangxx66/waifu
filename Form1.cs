@@ -24,6 +24,18 @@ namespace waifu
         {
             var hair = _dataHelper.GetHairData();
             this.hair_text.Text = hair;
+
+            var attr = _dataHelper.GetAttrData();
+            this.Attr_text.Text = attr;
+
+            var character = _dataHelper.GetCharData();
+            this.Char_text.Text = character;
+
+            var cup = _dataHelper.GetCupData();
+            this.Cup_text.Text = cup;
+
+            var skin = _dataHelper.GetSkinData();
+            this.Skin_text.Text = skin;
         }
     }
 }

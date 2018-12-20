@@ -1812,11 +1812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet3-winform-test\\waifu\\waifu.csproj",
+      "projectUniqueName": "e:\\dotnet3-winform-test\\waifu\\waifu.csproj",
       "projectName": "waifu",
-      "projectPath": "E:\\dotnet3-winform-test\\waifu\\waifu.csproj",
+      "projectPath": "e:\\dotnet3-winform-test\\waifu\\waifu.csproj",
       "packagesPath": "C:\\Users\\zxx\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet3-winform-test\\waifu\\obj\\",
+      "outputPath": "e:\\dotnet3-winform-test\\waifu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
