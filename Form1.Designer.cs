@@ -41,11 +41,11 @@
             this.label1.Name = "hair_label";
             this.label1.Size = new System.Drawing.Size(400, 376);
             this.label1.TabIndex = 1;
-            this.label1.Text = "发色：";
+            this.label1.Text = "发型：";
             //this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 
             //
-            // 发色text
+            // 发型text
             //
             this.hair_text.Dock = System.Windows.Forms.DockStyle.Right;
             this.hair_text.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
