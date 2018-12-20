@@ -1148,7 +1148,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/3.0.0-preview-27122-01": {
-      "sha512": "LJGENrcxKnWtVWRw/HzsrSGO3Rur7xsWDQwB+WFF3MW6ov5D/DIlfZYY2cjgQP9IXOCD544AUqwvOQOH9r5Jxg==",
+      "sha512": "D5K9UJH3jHkX9khQWcYdBWdf0DMbG+nNt2dYbthOmFEyH4gLFum625Eoz3rPVcTsi1Q9ogrJ5/HgkpEzL7wuNg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/3.0.0-preview-27122-01",
       "files": [
@@ -1179,7 +1179,7 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.0.0": {
-      "sha512": "rJJD/NPatfDry7SuNM7YvjqbJD9u1fs8h0hGI0nft0lnCFfEtPuX5N29Akja0ATbjQxzWn4P0s5gUSeOxEqROQ==",
+      "sha512": "mJnCMoBfWL0lxxlBFJ/8cZKTfPpI82TekZkUqvSCBtunUaaqr2LVeWl1zQYdanAdk4Ddf1HCwb8+DNYaNFBk1w==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
@@ -1196,7 +1196,7 @@
       ]
     },
     "Microsoft.WindowsDesktop.App/3.0.0-alpha-27128-4": {
-      "sha512": "ClRs2r86rQ0hNy02pbroWxu9xZc5zgFhPjARSrGOO/uebrHKnENkFKc288f+6MkeQ8RpMU9ZDtRqQtMTTFRajw==",
+      "sha512": "Owj/C6579ZSDjF7N3WK4ZzkbvPp9wqpLwK6ZaL4oBPA5SnD+9g+ew271NKjPuj3vSEo8LJZYCNP6DLL42ZVh9Q==",
       "type": "package",
       "path": "microsoft.windowsdesktop.app/3.0.0-alpha-27128-4",
       "files": [
@@ -1290,7 +1290,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
+      "sha512": "548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -1695,7 +1695,7 @@
       ]
     },
     "runtime.win-x64.Microsoft.WindowsDesktop.App/3.0.0-alpha-27128-4": {
-      "sha512": "kShZQED3LGuPF9Av5FCa1G+nTy2uyb6ctoXCgfN6x0l3hs6IZUAomy4/RI2kkwAFrU3r+oF4CPAe/FxNH4OHkw==",
+      "sha512": "mHvXoRnxjAJVE6nqMwNfMAQdwr6knUUgwtPJVPZhj3AFrmcpHRk1dMfxzklU3TfJHUrR+xZg9pHV8m5RP4dzNQ==",
       "type": "package",
       "path": "runtime.win-x64.microsoft.windowsdesktop.app/3.0.0-alpha-27128-4",
       "files": [
@@ -1812,11 +1812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet3-winform-test\\waifu\\waifu.csproj",
+      "projectUniqueName": "f:\\private\\laopo\\waifu.csproj",
       "projectName": "waifu",
-      "projectPath": "E:\\dotnet3-winform-test\\waifu\\waifu.csproj",
+      "projectPath": "f:\\private\\laopo\\waifu.csproj",
       "packagesPath": "C:\\Users\\zxx\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet3-winform-test\\waifu\\obj\\",
+      "outputPath": "f:\\private\\laopo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

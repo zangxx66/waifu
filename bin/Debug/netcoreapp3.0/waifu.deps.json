@@ -70,7 +70,7 @@
     "Microsoft.NETCore.DotNetHostResolver/3.0.0-preview-27122-01": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LJGENrcxKnWtVWRw/HzsrSGO3Rur7xsWDQwB+WFF3MW6ov5D/DIlfZYY2cjgQP9IXOCD544AUqwvOQOH9r5Jxg==",
+      "sha512": "sha512-D5K9UJH3jHkX9khQWcYdBWdf0DMbG+nNt2dYbthOmFEyH4gLFum625Eoz3rPVcTsi1Q9ogrJ5/HgkpEzL7wuNg==",
       "path": "microsoft.netcore.dotnethostresolver/3.0.0-preview-27122-01",
       "hashPath": "microsoft.netcore.dotnethostresolver.3.0.0-preview-27122-01.nupkg.sha512"
     },
@@ -84,7 +84,7 @@
     "NETStandard.Library/2.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
+      "sha512": "sha512-548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     }

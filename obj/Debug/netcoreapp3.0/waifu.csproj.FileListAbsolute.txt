@@ -12,3 +12,17 @@ E:\dotnet3-winform-test\waifu\obj\Debug\netcoreapp3.0\waifu.AssemblyInfoInputs.c
 E:\dotnet3-winform-test\waifu\obj\Debug\netcoreapp3.0\waifu.AssemblyInfo.cs
 E:\dotnet3-winform-test\waifu\obj\Debug\netcoreapp3.0\waifu.dll
 E:\dotnet3-winform-test\waifu\obj\Debug\netcoreapp3.0\waifu.pdb
+F:\private\laopo\bin\Debug\netcoreapp3.0\waifu.exe
+F:\private\laopo\bin\Debug\netcoreapp3.0\waifu.deps.json
+F:\private\laopo\bin\Debug\netcoreapp3.0\waifu.runtimeconfig.json
+F:\private\laopo\bin\Debug\netcoreapp3.0\waifu.runtimeconfig.dev.json
+F:\private\laopo\bin\Debug\netcoreapp3.0\waifu.dll
+F:\private\laopo\bin\Debug\netcoreapp3.0\waifu.pdb
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.csprojAssemblyReference.cache
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.Form1.resources
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.csproj.GenerateResource.cache
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.csproj.CoreCompileInputs.cache
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.AssemblyInfoInputs.cache
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.AssemblyInfo.cs
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.dll
+F:\private\laopo\obj\Debug\netcoreapp3.0\waifu.pdb
