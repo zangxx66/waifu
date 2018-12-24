@@ -45,5 +45,20 @@ namespace waifu.Helper
             var result = array[random];
             return result;
         }
+
+        public string GetAgeData(){
+            var age = new Random().Next(5,25);
+            return age.ToString();
+        }
+
+        public string GetHeightData(){
+            var height = new Random().Next(143,180);
+            return height.ToString();
+        }
+
+        public string GetWeightData(){
+            var weight = new Random().Next(45,60);
+            return weight.ToString();
+        }
     }
 }

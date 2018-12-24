@@ -1,0 +1,14 @@
+E:\dotnet3-winform-test\waifu\bin\release\netcoreapp3.0\waifu.exe
+E:\dotnet3-winform-test\waifu\bin\release\netcoreapp3.0\waifu.deps.json
+E:\dotnet3-winform-test\waifu\bin\release\netcoreapp3.0\waifu.runtimeconfig.json
+E:\dotnet3-winform-test\waifu\bin\release\netcoreapp3.0\waifu.runtimeconfig.dev.json
+E:\dotnet3-winform-test\waifu\bin\release\netcoreapp3.0\waifu.dll
+E:\dotnet3-winform-test\waifu\bin\release\netcoreapp3.0\waifu.pdb
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.csprojAssemblyReference.cache
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.Form1.resources
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.csproj.GenerateResource.cache
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.csproj.CoreCompileInputs.cache
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.AssemblyInfoInputs.cache
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.AssemblyInfo.cs
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.dll
+E:\dotnet3-winform-test\waifu\obj\release\netcoreapp3.0\waifu.pdb
